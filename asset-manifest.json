@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/terakawa/static/css/main.24ea8ee0.css",
+    "main.css": "/terakawa/static/css/main.b42a268f.css",
     "main.js": "/terakawa/static/js/main.9e874400.js",
     "static/js/453.18a882e5.chunk.js": "/terakawa/static/js/453.18a882e5.chunk.js",
     "static/media/logo.svg": "/terakawa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/terakawa/index.html",
-    "main.24ea8ee0.css.map": "/terakawa/static/css/main.24ea8ee0.css.map",
+    "main.b42a268f.css.map": "/terakawa/static/css/main.b42a268f.css.map",
     "main.9e874400.js.map": "/terakawa/static/js/main.9e874400.js.map",
     "453.18a882e5.chunk.js.map": "/terakawa/static/js/453.18a882e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24ea8ee0.css",
+    "static/css/main.b42a268f.css",
     "static/js/main.9e874400.js"
   ]
 }
