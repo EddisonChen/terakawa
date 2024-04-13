@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/terakawa/static/css/main.28ab2695.css",
-    "main.js": "/terakawa/static/js/main.da55cde3.js",
+    "main.js": "/terakawa/static/js/main.cf375bb9.js",
     "static/js/453.18a882e5.chunk.js": "/terakawa/static/js/453.18a882e5.chunk.js",
     "static/media/cat.png": "/terakawa/static/media/cat.bf2e4c353e54ba9f22f6.png",
     "static/media/fish-border-transparent-highres.png": "/terakawa/static/media/fish-border-transparent-highres.936231e0eef3344ce9f3.png",
     "index.html": "/terakawa/index.html",
     "main.28ab2695.css.map": "/terakawa/static/css/main.28ab2695.css.map",
-    "main.da55cde3.js.map": "/terakawa/static/js/main.da55cde3.js.map",
+    "main.cf375bb9.js.map": "/terakawa/static/js/main.cf375bb9.js.map",
     "453.18a882e5.chunk.js.map": "/terakawa/static/js/453.18a882e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28ab2695.css",
-    "static/js/main.da55cde3.js"
+    "static/js/main.cf375bb9.js"
   ]
 }
